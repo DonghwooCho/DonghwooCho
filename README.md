@@ -7,8 +7,9 @@
 
 <!-- 깃허브 통계 아이콘 -->
 <p align="center" display="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=183981&#gh-light-mode-only" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent#gh-dark-mode-only" /> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=183981&#gh-light-mode-only" /> -->
 </p>
 
 <!-- 깃허브 레퍼지토리 아이콘 -->
