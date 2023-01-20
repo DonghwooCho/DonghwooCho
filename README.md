@@ -10,12 +10,14 @@
         <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=whehdgn" />
 </p>
 
+<!-- 깃허브 통계 아이콘1 -->
 <p align="center" display="inline-block">
         <img src="https://github-profile-trophy.vercel.app/?username=donghwoocho&row=1" />
 </p>
-<!-- 깃허브 통계 아이콘 -->
-<p align="center" display="inline-block">
-        <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent" />
+
+<!-- 깃허브 통계 아이콘2 -->
+<!-- <p align="center" display="inline-block">
+        <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent" /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent#gh-dark-mode-only" /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=183981&#gh-light-mode-only" /> -->
 </p>
