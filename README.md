@@ -17,8 +17,8 @@
 
 <!-- 깃허브 통계 아이콘2 -->
 <p align="center" display="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=224468&#gh-light-mode-only" width="53.4%" />
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=whehdgn" width="46.1%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=224468&#gh-light-mode-only" width="52.4%" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=whehdgn" width="45.1%">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent" width="52%"/>  -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent#gh-dark-mode-only" />  -->
 </p>
