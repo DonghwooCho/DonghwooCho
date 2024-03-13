@@ -39,13 +39,13 @@
 <details>
   <summary><h3 style=font-size:50px>📚 Education</h3></summary>
 
-- **국민대학교 정보보안암호수학과 재학**
+- [**국민대학교 정보보안암호수학과 재학**](https://cst.kookmin.ac.kr/security/intro)
   (2019. 03. 04. - )
 
-- **메타버스 아카데미 1기 네트워크 과정 수료**
+- [**메타버스 아카데미 1기 네트워크 과정 수료**](https://mtvs.kr/user/main)
   (2022. 05. 09. - 2022. 12. 01.)
 
-- **Architecting on AWS 과정 수료**
+- [**Architecting on AWS 과정 수료**](https://aws.amazon.com/ko/training/classroom/architecting-on-aws/)
   (2022. 11. 16. - 2022. 11. 18.)
 </details>
 
@@ -113,8 +113,8 @@
 - **교내 전공 학술동아리 FaS(Forensic and Security)**
   (2023. 03. 20. ~ )
 
-- **KISIA 주관 ICT융합산업보안 융합보안크루 IoT 보안 1기**
-  (2023. 12. 06. ~ )
+- [**국민대학교 Digital Forensic and Cryptanalysis Laboratory(DF&C Lab.) 학부연구생**](https://dfnc.kookmin.ac.kr/DFNC/index.do)
+  (2024. 02. 14. ~ )
 </details>
 
 ---
@@ -123,10 +123,10 @@
   <summary><h3 style=font-size:50px>🚀 Career</h3></summary>
 
 - **스콥 풀스택 개발자**
-  (2023. 03. 11. ~ 2024. 02. 14.)
+  (2023. 03. 11. ~ 2024. 02. 13.)
 
-- **(주)페이버핏 풀스택 개발자**
-  (2023. 07. 28. ~ 2024. 02. 14.)
+- [**(주)페이버핏 풀스택 개발자**](https://favorfit.co.kr/)
+  (2023. 07. 28. ~ 2024. 02. 13.)
 </details>
 
 ---
