@@ -2,7 +2,7 @@
 
 <!-- 헤더 -->
 <p align="center" display="inline-block">
-    <img src="https://github.com/DonghwooCho/DonghwooCho/assets/67030031/79f1990e-48c8-483e-9a2e-b152b369bb28" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/5645c728-8772-44b0-8665-a6a082973784" width="100%"/>
 </p>
 
 <!-- 백준 통계 아이콘 -->
@@ -12,17 +12,22 @@
 
 <!-- 깃허브 통계 아이콘1 -->
 <!-- <p align="center" display="inline-block"> -->
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=donghwoocho&row=1" width="100%"/> -->
+<!-- <img src="http://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=224468&#gh-light-mode-only" width="60.0% align="center">  -->
 <!-- </p> -->
 
-<!-- 깃허브 통계 아이콘2 -->
+<!-- 드림핵 통계 -->
 <p align="center" display="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&title_color=224468&#gh-light-mode-only" width="52.4%" />
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=whehdgn" width="45.1%">
+    <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=סמאל" width="49.3%" />
+<!-- 백준 통계 -->
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=whehdgn" width="49.3%">
+
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent" width="52%"/>  -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Donghwoocho&show_icons=true&count_private=true&theme=transparent#gh-dark-mode-only" />  -->
 </p>
 
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=donghwoocho&row=1" width="100%"/>
+</p>
 <!-- 깃허브 레퍼지토리 아이콘 -->
 <!-- <p align="center" display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Donghwoocho&repo=Donghwoocho" />
@@ -32,6 +37,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donghwoocho&layout=compact" />
 </p> -->
 
+```json
+{
+  "name": "Donghwoo Cho",
+  "email": "whehdgn1001@kookmin.ac.kr",
+  "interests": ["Digital Forensics", "Malware", "Reverse Engineering", "Develop"],
+}
+```
+
 ---
 
 <!-- <img alt="이미지명" src ="https://img.shields.io/badge/블로그-ff0000.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/> -->
@@ -39,20 +52,31 @@
 <details>
   <summary><h3 style=font-size:50px>📚 Education</h3></summary>
 
-- [**국민대학교 정보보안암호수학과 재학**](https://cst.kookmin.ac.kr/security/intro)
-  (2019. 03. 04. - )
+- [**국민대학교 정보보안암호수학과 졸업**](https://cst.kookmin.ac.kr/security/intro)
+  (2019. 03. 04. - 2025. 02. 19.)
 
 - [**메타버스 아카데미 1기 네트워크 과정 수료**](https://mtvs.kr/user/main)
   (2022. 05. 09. - 2022. 12. 01.)
 
 - [**Architecting on AWS 과정 수료**](https://aws.amazon.com/ko/training/classroom/architecting-on-aws/)
   (2022. 11. 16. - 2022. 11. 18.)
+
+- [**AI보안 기술개발 교육과정(악성코드반) 수료**](https://kice.kisia.or.kr/home/kor/education/ai/view.do?menuPos=9&tabPos=A&idx=&act=&idx2=215&searchValue1=&searchKeyword=&pageIndex=1)
+  (2024. 06. 24. - 2024. 10. 11.)
 </details>
 
 ---
 
 <details>
 <summary><h3 style=font-size:50px>🗡️ Skills</h3></summary>
+    
+<i><p>Skills Used Recently:</p></i>
+    <img src="https://img.shields.io/badge/python-FFD65A?style=for-the-badge&logo=python"> 
+    <img src="https://img.shields.io/badge/JADX-7469B6?style=for-the-badge&logo=0&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Ghidra-A0153E?style=for-the-badge&logo=0&logoColor=white">
+    <img src="https://img.shields.io/badge/IDA-135D66?style=for-the-badge&logo=0&logoColor=white"> 
+    
+<i><p>Skills Learned OR Used in the Project:</p></i>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -103,6 +127,8 @@
 - **네트워크관리사 2급**
 - **SQLD**
 - **디지털포렌식전문가 2급(필기)**
+- **리눅스마스터 2급(필기)**
+- 
 </details>
 
 ---
@@ -114,7 +140,8 @@
   (2023. 03. 20. ~ )
 
 - [**국민대학교 Digital Forensic and Cryptanalysis Laboratory(DF&C Lab.) 학부연구생**](https://dfnc.kookmin.ac.kr/DFNC/index.do)
-  (2024. 02. 14. ~ )
+  (2024. 02. 14. ~ 2025. 03. 02.)
+  
 </details>
 
 ---
@@ -127,6 +154,7 @@
 
 - [**(주)페이버핏 풀스택 개발자**](https://favorfit.co.kr/)
   (2023. 07. 28. ~ 2024. 01. 01.)
+  
 </details>
 
 ---
